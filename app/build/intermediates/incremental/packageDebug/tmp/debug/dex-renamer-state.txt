@@ -1,0 +1,7 @@
+#Thu Apr 06 05:54:02 EDT 2023
+base.1=/Users/dennisjung/Documents/aos-work/SmoothScrollRecyclerView/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/Users/dennisjung/Documents/aos-work/SmoothScrollRecyclerView/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
